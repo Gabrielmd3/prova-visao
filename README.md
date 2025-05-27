@@ -4,16 +4,15 @@
 
 ## Descrição do Problema
 
-O objetivo deste projeto é desenvolver um modelo de inteligência artificial capaz de classificar imagens como pertencentes a classe "cats" ou "dogs", utilizando Redes Neurais Convolucionais. O conjunto de dados é composto por imagens organizadas em duas pastas e o modelo é treinado a partir dessas imagens.
+Desenvolvimento de um modelo de inteligência artificial capaz de classificar imagens como pertencentes a classe "cats" ou "dogs", utilizando CNN. O conjunto de dados é composto por imagens organizadas em duas pastas e o modelo é treinado a partir dessas imagens.
 
 ---
 
 ## Justificativa das Técnicas Utilizadas
 
 * CNN (Convolutional Neural Networks): são eficazes para tarefas de classificação de imagens por capturarem padrões espaciais, como bordas, texturas e formas.
-* Keras + TensorFlow: oferece uma API de alto nível para construção e treinamento de redes neurais de forma simples e eficiente.
-* Data Augmentation e Pré-processamento: aplicados para melhorar a capacidade do modelo de generalizar, reduzindo o risco de overfitting.
-* Métricas de Avaliação (Precisão, Recall, F1-Score): fornecem uma visão detalhada sobre a performance do modelo em termos de acerto e erro por classe.
+* Pré-processamento: aplicados para melhorar a capacidade do modelo de generalizar, reduzindo o risco de overfitting.
+* Métricas de Avaliação: fornecem um detalhamento sobre a performance do modelo em termos de acerto e erro por classe.
 
 ---
 
